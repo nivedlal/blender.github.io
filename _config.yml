@@ -22,7 +22,7 @@ description: Welcome to Blender Boost, your go-to hub for tips, tricks, and shor
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://blender.github.io"  # This is your GitHub Pages domain
 
 github:
   username: github_username # change to your GitHub username
@@ -149,7 +149,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: ""  # This is correct for a GitHub Pages site at the root
 
 # ------------ The following options are not recommended to be modified ------------------
 
